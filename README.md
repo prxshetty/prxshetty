@@ -1,4 +1,4 @@
-### Hi there! 👋🏻  <img align="right" src=https://profile-counter.glitch.me/prxshetty/count.svg">
+### Hi there! 👋🏻  <img align="right" src="https://profile-counter.glitch.me/prxshetty/count.svg">
 
 <div align=center>
  <!-- <img width="100%" src="https://github-readme-stats.vercel.app/api?username=prxshetty&theme=dark&hide_border=true&include_all_commits=false&count_private=false"> -->
