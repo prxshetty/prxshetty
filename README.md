@@ -1,8 +1,18 @@
-### Hi there! 👋🏻  <img align="right" src="https://profile-counter.glitch.me/prxshetty/count.svg">
+### Hey, I'm Pranam 👋🏽   <img align="right" src="https://profile-counter.glitch.me/prxshetty/count.svg">
 
+I'm a Masters student studying Data Science at RIT, NY.
 <div align=center>
  <!-- <img width="100%" src="https://github-readme-stats.vercel.app/api?username=prxshetty&theme=dark&hide_border=true&include_all_commits=false&count_private=false"> -->
 </div>
+
+## Hobbies <br/>
+💪 Fitness <br/>
+♟ Chess <br/>
+✏️ Writing  <br/>
+## Connect with Me 🌱
+- [Linkedin](https://www.linkedin.com/in/prxshetty/) <br/>
+- [Twitter](https://twitter.com/prxshetty) <br/>
+- [Medium](https://medium.com/@prxshetty) <br/>
 
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
