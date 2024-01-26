@@ -9,9 +9,7 @@ I'm a Masters student studying Data Science at RIT, NY.
 💪 Fitness <br/>
 ♟ Chess <br/>
 ✏️ Writing  <br/>
-<!--//## Connect with Me 🌱
-//- [Linkedin](https://www.linkedin.com/in/prxshetty/) <br/>
-//- [Twitter](https://twitter.com/prxshetty) <br/>
+<!--
 //- [Medium](https://medium.com/@prxshetty) <br/> -->
 
 <table cellspacing="0" cellpadding="0">
