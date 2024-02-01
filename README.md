@@ -9,12 +9,10 @@ I'm a Masters student studying Data Science at RIT, NY.
 💪 Fitness <br/>
 ♟ Chess <br/>
 ✏️ Writing  <br/>
-
-
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
-    <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prxshetty&theme=dark&hide_border=true"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=prxshetty&theme=dark&hide_border=true&include_all_commits=false&count_private=false"></td> 
+    <td><img align="left" src="https://streak-stats.demolab.com?user=prxshetty&theme=tokyonight-duo&hide_border=true"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prxshetty&layout=compact&bg_color=0d1117&hide_border=true"></td> 
   </tr>
 </table>
 
