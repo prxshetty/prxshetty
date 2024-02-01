@@ -1,11 +1,8 @@
 ### Hey, I'm Pranam 👋🏽   <img align="right" src="https://profile-counter.glitch.me/prxshetty/count.svg">
-
-
-I'm a Masters student studying Data Science at RIT, NY.
-
 <a href="mailto:prxshetty@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/prxshetty">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
+I'm a Masters student studying Data Science at RIT, NY.
 
 <div align=center>
  <!-- <img width="100%" src="https://github-readme-stats.vercel.app/api?username=prxshetty&theme=dark&hide_border=true&include_all_commits=false&count_private=false"> -->
