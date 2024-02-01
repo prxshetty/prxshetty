@@ -1,6 +1,9 @@
-### Hey, I'm Pranam 👋🏽   <img align="right" src="https://profile-counter.glitch.me/prxshetty/count.svg">
-<a href="mailto:prxshetty@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/prxshetty">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+### Hey, I'm Pranam 👋🏽  <img align="right" src="https://profile-counter.glitch.me/prxshetty/count.svg">
+
+<a href="mailto:prxshetty@gmail.com"><img height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="YourEmail@gmail.com"></a>
+<a href="https://www.linkedin.com/in/prxshetty"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+
 
 I'm a Masters student studying Data Science at RIT, NY.
 
