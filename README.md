@@ -14,7 +14,7 @@ I'm a Masters student studying Data Science at RIT, NY.
 ## Hobbies <br/>
 💪 Fitness <br/>
 ♟ Chess <br/>
-✏️ Writing  <br/>
+✏️ Writing <br/>
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
     <td><img align="left" src="https://streak-stats.demolab.com?user=prxshetty&theme=tokyonight-duo&hide_border=true"></td>
