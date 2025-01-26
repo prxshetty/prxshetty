@@ -13,7 +13,7 @@ const BLOG_HOST = `https://www.medium.com/@prxshetty`;
 
 /* README Sections */
 const introTitle = generateTitle(2, `Hello there, I'm ${generateLink('Pranam', 'https://prxshetty.github.io/')}`);
-const introDescription = `I am currently a Data Science Master's student at RIT ${generateLink('RIT', 'https://www.rit.edu/')} pursuing my Master's in Data Science. I am working on some side projects, learning a couple languages, and trying to figure out the perfect way to cook a chicken.`;
+const introDescription = `I am currently a Data Science Master's student at ${generateLink('RIT', 'https://www.rit.edu/')} pursuing my Master's in Data Science. I am working on some side projects, learning a couple languages, and trying to figure out the perfect way to cook a chicken.`;
 
 const badgeConfigs = [{
         name: 'Website',
@@ -53,8 +53,8 @@ const factsConfigs = [
     `📄 If you're curious, here's my [resume](https://github.com/prxshetty/prxshetty.github.io/blob/main/assets/docs/PranamShettyF_Resume.pdf).`,
 ];
 const facts = factsConfigs.reduce((result, fact) => result + `\n - ${fact}`, '');
-const toolsTitle = generateTitle(2, `🚀 My Tech Arsenal`);
-const toolsIconSize = 25;
+const toolsTitle = generateTitle(2, `🚀 My Tech Stacks`);
+const toolsIconSize = 30;
 const toolsConfig = [
     { src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg', alt: 'Python' },
     { src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg', alt: 'JavaScript' },
@@ -64,42 +64,30 @@ const toolsConfig = [
     { src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg', alt: 'Kubernetes' },
     { src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg', alt: 'TensorFlow' },
     { src: 'https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg', alt: 'GCP' },
-    { src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg', alt: 'AWS' },
+    { src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg', alt: 'AWS' },
     { src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg', alt: 'Flask' },
     { src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg', alt: 'NGINX' },
     { src: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg', alt: 'SQLite' },
     { src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg', alt: 'Redis' },
     { src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg', alt: 'MongoDB' },
-    { src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg', alt: 'Git' }
-];
-const tools = toolsConfig.reduce((result, toolConfig) => result + '\n' + generateIcon(toolConfig, toolsIconSize), '');
-
-const aiToolsTitle = generateTitle(2, `🤖 AI & ML Arsenal`);
-const aiToolsConfig = [
-    { src: 'https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_favicon.ico', alt: 'LangChain' },
+    { src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg', alt: 'Git' },
     { src: 'https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.svg', alt: 'PyTorch' },
     { src: 'https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg', alt: 'Scikit-learn' },
     { src: 'https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas.svg', alt: 'Pandas' },
     { src: 'https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg', alt: 'NumPy' },
-    { src: 'https://raw.githubusercontent.com/microsoft/semantic-kernel/main/docs/media/sk-logo.png', alt: 'Semantic Kernel' },
-    { src: 'https://raw.githubusercontent.com/huggingface/huggingface_hub/main/docs/source/_static/favicon.ico', alt: 'Hugging Face' },
-    { src: 'https://raw.githubusercontent.com/openai/openai-python/main/docs/source/_static/favicon.ico', alt: 'OpenAI' },
-    { src: 'https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg', alt: 'OpenCV' },
-    { src: 'https://raw.githubusercontent.com/keras-team/keras/master/docs/theme/img/favicon.ico', alt: 'Keras' }
 ];
+const tools = toolsConfig.reduce((result, toolConfig) => result + '\n' + generateIcon(toolConfig, toolsIconSize), '');
 
-const aiTools = aiToolsConfig.reduce((result, toolConfig) => result + '\n' + generateIcon(toolConfig, toolsIconSize), '');
+// const stats = `<img src="https://github-readme-stats.vercel.app/api?username=prxshetty&show_icons=true&count_private=true" alt="prxshetty" />`;
 
-const stats = `<img src="https://github-readme-stats.vercel.app/api?username=prxshetty&show_icons=true&count_private=true" alt="prxshetty" />`;
-
-const visitors = `[![HitCount](https://hits.dwyl.com/prxshetty/prxshetty.svg?style=flat-square)](http://hits.dwyl.com/prxshetty/prxshetty)`;
+// const visitors = `[![HitCount](https://hits.dwyl.com/prxshetty/prxshetty.svg?style=flat-square)](http://hits.dwyl.com/prxshetty/prxshetty)`;
 
 const content = `${introTitle}\n
 ${introDescription}\n
 ${badges}\n
-${gif}\n
 ${factsTitle}\n
 ${facts}\n
+${gif}\n
 <details>\n
     <summary>Explore</summary>\n
     <li><a target="_blank" href="${BLOG_HOST}">Check out my blog posts on Medium</a></li>\n
@@ -108,13 +96,7 @@ ${facts}\n
 ${toolsTitle}\n
 <p align="left">\n
     ${tools}\n
-</p>\n
-${aiToolsTitle}\n
-<p align="left">\n
-    ${aiTools}\n
-</p>\n
-${stats}\n
-${visitors}`;
+</p>\n`;
 
 const markdownContent = md.render(content);
 
