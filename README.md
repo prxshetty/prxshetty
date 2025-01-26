@@ -1,6 +1,7 @@
 <h2>Hello there, I'm <a href="https://prxshetty.github.io/">Pranam</a></h2>
 <p>I am currently a Data Science Master's student at <a href="https://www.rit.edu/">RIT</a> pursuing my Master's in Data Science. I am working on some side projects, learning a couple languages, and trying to figure out the perfect way to cook a chicken.</p>
 <p><a href="https://prxshetty.github.io"><img src="https://img.shields.io/badge/-prxshetty.github.io-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://prxshetty.github.io" alt="Website Badge"></a> <a href="https://medium.com/@prxshetty"><img src="https://img.shields.io/badge/-@prxshetty-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@prxshetty" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/prxshetty/"><img src="https://img.shields.io/badge/-@prxshetty-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/prxshetty/" alt="LinkedIn Badge"></a></p>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdia2xzaWhoYXhnY3RmMmd3OHNrYmo1a3k5ZmM0aWUyc2tvbWY5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iF38ziTbss8j6/giphy.gif" width="300" height="200" />
 <h2>⚡ A Glimpse of Me</h2>
 <ul>
 <li>🔭 Building <a href="https://github.com/prxshetty/linkedout">LinkedOut</a>, a project I hold close to my heart.</li>
@@ -10,14 +11,6 @@
 <li>💬 Let's talk about <strong>AI, Stocks, Data, and all things innovation</strong>.</li>
 <li>📄 If you're curious, here's my <a href="https://github.com/prxshetty/prxshetty.github.io/blob/main/assets/docs/PranamShettyF_Resume.pdf">resume</a>.</li>
 </ul>
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdia2xzaWhoYXhnY3RmMmd3OHNrYmo1a3k5ZmM0aWUyc2tvbWY5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iF38ziTbss8j6/giphy.gif" />
-<details>
-<pre><code>&lt;summary&gt;Explore&lt;/summary&gt;
-
-&lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.medium.com/@prxshetty&quot;&gt;Check out my blog posts on Medium&lt;/a&gt;&lt;/li&gt;
-</code></pre>
-</details>
-<p><a target="_blank" href="https://www.medium.com/@prxshetty">Read More</a></p>
 <h2>🚀 My Tech Stacks</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="30" height="30" />

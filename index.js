@@ -42,7 +42,7 @@ const badgeConfigs = [{
 ];
 const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBadge(config), '');
 
-const gif = `<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdia2xzaWhoYXhnY3RmMmd3OHNrYmo1a3k5ZmM0aWUyc2tvbWY5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iF38ziTbss8j6/giphy.gif" />`;
+const gif = `<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdia2xzaWhoYXhnY3RmMmd3OHNrYmo1a3k5ZmM0aWUyc2tvbWY5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iF38ziTbss8j6/giphy.gif" width="300" height="200" />`;
 const factsTitle = generateTitle(2, `⚡ A Glimpse of Me`);
 const factsConfigs = [
     `🔭 Building [LinkedOut](https://github.com/prxshetty/linkedout), a project I hold close to my heart.`,
@@ -85,14 +85,9 @@ const tools = toolsConfig.reduce((result, toolConfig) => result + '\n' + generat
 const content = `${introTitle}\n
 ${introDescription}\n
 ${badges}\n
+${gif}\n
 ${factsTitle}\n
 ${facts}\n
-${gif}\n
-<details>\n
-    <summary>Explore</summary>\n
-    <li><a target="_blank" href="${BLOG_HOST}">Check out my blog posts on Medium</a></li>\n
-</details>\n
-<a target="_blank" href="${BLOG_HOST}">Read More</a>\n
 ${toolsTitle}\n
 <p align="left">\n
     ${tools}\n
