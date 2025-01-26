@@ -50,7 +50,7 @@ const factsConfigs = [
     `👨‍💻 My experiments and projects await your curiosity on [Github](https://github.com/prxshetty).`,
     `📝 Occasionally, I pen down my thoughts and insights on [Medium](${BLOG_HOST}).`,
     `💬 Let's talk about **AI, Stocks, Data, and all things innovation**.`,
-    `📄 If you're curious, here's my [resume](https://github.com/prxshetty/prxshetty.github.io/blob/main/assets/docs/PranamShettyF_Resume.pdf).`,
+    `📄 If you're curious, here's my [resume](https://prxshetty.github.io/docs/Pranam_ResumeF.pdf).`,
 ];
 const facts = factsConfigs.reduce((result, fact) => result + `\n - ${fact}`, '');
 const toolsTitle = generateTitle(2, `🚀 My Tech Stacks`);
