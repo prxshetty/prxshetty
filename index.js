@@ -42,7 +42,7 @@ const badgeConfigs = [{
 ];
 const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBadge(config), '');
 
-const gif = `<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdia2xzaWhoYXhnY3RmMmd3OHNrYmo1a3k5ZmM0aWUyc2tvbWY5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iF38ziTbss8j6/giphy.gif" width="300" height="200" />`;
+const gif = `<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdia2xzaWhoYXhnY3RmMmd3OHNrYmo1a3k5ZmM0aWUyc2tvbWY5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iF38ziTbss8j6/giphy.gif" />`;
 const factsTitle = generateTitle(2, `⚡ A Glimpse of Me`);
 const factsConfigs = [
     `🔭 Building [LinkedOut](https://github.com/prxshetty/linkedout), a project I hold close to my heart.`,
