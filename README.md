@@ -1,35 +1,74 @@
-<h2>Hello there, I'm <a href="https://prxshetty.github.io/">Pranam</a></h2>
-<p>I am currently a Data Science Master's student at <a href="https://www.rit.edu/">RIT</a> pursuing my Master's in Data Science. I am working on some side projects, learning a couple languages, and trying to figure out the perfect way to cook a chicken.</p>
-<p><a href="https://prxshetty.github.io"><img src="https://img.shields.io/badge/-prxshetty.github.io-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://prxshetty.github.io" alt="Website Badge"></a> <a href="https://medium.com/@prxshetty"><img src="https://img.shields.io/badge/-@prxshetty-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@prxshetty" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/prxshetty/"><img src="https://img.shields.io/badge/-@prxshetty-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/prxshetty/" alt="LinkedIn Badge"></a></p>
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdia2xzaWhoYXhnY3RmMmd3OHNrYmo1a3k5ZmM0aWUyc2tvbWY5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iF38ziTbss8j6/giphy.gif" width="300" height="200" />
-<h2>⚡ A Glimpse of Me</h2>
-<ul>
-<li>🔭 Building <a href="https://github.com/prxshetty/linkedout">LinkedOut</a>, a project I hold close to my heart.</li>
-<li>🧐 Reading on LLM's, AI workflows, new breakthroughs and a pinch of software architecture.</li>
-<li>👨‍💻 My experiments and projects await your curiosity on <a href="https://github.com/prxshetty">Github</a>.</li>
-<li>📝 Occasionally, I pen down my thoughts and insights on <a href="https://www.medium.com/@prxshetty">Medium</a>.</li>
-<li>💬 Let's talk about <strong>AI, Stocks, Data, and all things innovation</strong>.</li>
-<li>📄 If you're curious, here's my <a href="https://github.com/prxshetty/prxshetty.github.io/blob/main/assets/docs/PranamShettyF_Resume.pdf">resume</a>.</li>
-</ul>
-<h2>🚀 My Tech Stacks</h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="30" height="30" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="30" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.svg" alt="PyTorch" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="Scikit-learn" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas.svg" alt="Pandas" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="NumPy" width="30" height="30" />
-</p>
+<h2 align="left">Hi 👋! I'm <a href="https://prxshetty.github.io/">Pranam</a></h2>
+
+###
+
+<p align="left">I'm a Data Science Master's student at RIT</a>. I love working on side projects, exploring new technologies, and figuring out the perfect way to cook chicken.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prxshetty&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prxshetty&theme=dark" height="150" alt="Streak Stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prxshetty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="Kubernetes logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" height="50" alt="Scikit-learn logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="GCP logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="Flask logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="NGINX logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="50" alt="RabbitMQ logo" />
+  <img width="12" />
+  <img src="https://n8n.io/favicon.ico" height="50" alt="n8n logo" />
+  <img width="12" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50" alt="Hugging Face logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="Vector DBs logo" />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://prxshetty.github.io" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Website Badge"  />
+  </a>
+  <a href="https://medium.com/@prxshetty" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=14c767&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Medium Badge"  />
+  </a>
+  <a href="https://www.linkedin.com/in/prxshetty/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Badge"  />
+  </a>
+</div>
