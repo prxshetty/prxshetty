@@ -62,7 +62,7 @@
 ###
 
 <div align="left">
-  <a href="https://prxshetty.github.io" target="_blank">
+  <a href="https://pranamshetty.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Website Badge"  />
   </a>
   <a href="https://medium.com/@prxshetty" target="_blank">
