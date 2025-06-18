@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm <a href="https://prxshetty.github.io/">Pranam</a></h2>
+<h2 align="left">Hi 👋! I'm <a href="https://pranamshetty.dev/">Pranam</a></h2>
 
 ###
 
