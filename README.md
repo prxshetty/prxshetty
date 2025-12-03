@@ -93,15 +93,19 @@
 ###
 <div align="center">
   <a href="https://pranamshetty.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Website Badge"  />
+    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Website Badge" />
   </a>
+
   <a href="https://medium.com/@prxshetty" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=14c767&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Medium Badge"  />
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=14c767&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Medium Badge" />
   </a>
+
   <a href="https://www.linkedin.com/in/prxshetty/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Badge"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn Badge" />
   </a>
 </div>
+
+
 
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prxshetty&bg_color=282c34&color=ffffff&line=61dafb&point=61dafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
