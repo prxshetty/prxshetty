@@ -16,11 +16,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prxshetty&label=Profile%20views&color=EB5800&style=for-the-badge" alt="prxshetty" />
 
-  <img alt="An engineer getting bored starts tweaking his README" src="https://img.shields.io/badge/An%20engineer%20gets%20bored-%20starts%20tweaking%20his%20README-%2361dafb?style=for-the-badge&cacheSeconds=86400">
+  <img alt="An AI Engineer" src="https://img.shields.io/badge/An%20engineer%20gets%20bored-%20starts%20tweaking%20his%20README-%2361dafb?style=for-the-badge&cacheSeconds=86400">
 
   <img alt="This is a FEATURE, not a BUG" src="https://img.shields.io/badge/This%20is%20a%20FEATURE-Not%20a%20BUG-%233c4ef0?style=for-the-badge&cacheSeconds=86400">
-
-  <img alt="DoorDash" src="https://img.shields.io/badge/DoorDash-My%20Diet%20Plan-%23FF3008?style=for-the-badge&logo=doordash&logoColor=white&cacheSeconds=86400">
 
   <img alt="Gemini" src="https://img.shields.io/badge/Gemini-Free%20but%20Priceless-%23f0453c?style=for-the-badge&logo=googlegemini&cacheSeconds=86400">
 
