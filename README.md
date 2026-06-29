@@ -88,21 +88,6 @@
   <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="Vector DBs logo" />
 </div>
 
-###
-<div align="center">
-  <a href="https://pranamshetty.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Website Badge" />
-  </a>
-
-  <a href="https://medium.com/@prxshetty" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=14c767&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Medium Badge" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/prxshetty/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn Badge" />
-  </a>
-</div>
-
 
 
   
