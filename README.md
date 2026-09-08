@@ -1,98 +1,66 @@
-<h2 align="center">Hi 👋! I'm Pranam</a></h2>
+<h1 align="center">Hi, I'm Pranam</h1>
+<p align="center">Software Engineer building evaluation pipelines, agentic workflows, and inference tooling for large language models. Interested in AI, ML and software engineer roles.</p>
 
-###
-
-<!-- <p align="left">I'm a Data Science Master's student at RIT</a>. I love working on side projects, exploring new technologies, and figuring out the perfect way to cook chicken.</p> -->
-
-###
-<!--
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prxshetty&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prxshetty&theme=dark" height="130" alt="Streak Stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prxshetty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
-</div>
--->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prxshetty&label=Profile%20views&color=EB5800&style=for-the-badge" alt="prxshetty" />
-
-  <img alt="An AI Engineer" src="https://img.shields.io/badge/An%20engineer%20gets%20bored-%20starts%20tweaking%20his%20README-%2361dafb?style=for-the-badge&cacheSeconds=86400">
-
-  <img alt="This is a FEATURE, not a BUG" src="https://img.shields.io/badge/This%20is%20a%20FEATURE-Not%20a%20BUG-%233c4ef0?style=for-the-badge&cacheSeconds=86400">
-
-  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-Free%20but%20Priceless-%23f0453c?style=for-the-badge&logo=googlegemini&cacheSeconds=86400">
-
-  <img alt="Linear" src="https://img.shields.io/badge/Linear-You%20can%20use%20it%20even%20off%20work-%233cf0a5?style=for-the-badge&logo=linear&cacheSeconds=86400">
-
-  <img alt="NVIDIA" src="https://img.shields.io/badge/nvidia-RTX%20Inside-%2376B900?style=for-the-badge&logo=nvidia&cacheSeconds=86400">
-
-  <img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-Ask%20Anything-%231FB8CD?style=for-the-badge&logo=perplexity&logoColor=ffffff&cacheSeconds=86400">
-
-  <img alt="AMD" src="https://img.shields.io/badge/amd-Smooth%20-%23ED1C24?style=for-the-badge&logo=amd&cacheSeconds=86400">
-
-  <img alt="n8n" src="https://img.shields.io/badge/n8n-Engineers%20love%20watching%20automation-%23EA4B71?style=for-the-badge&logo=n8n&cacheSeconds=86400">
-  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-My%20Second%20Brain-%23483699?style=for-the-badge&logo=obsidian&logoColor=white&cacheSeconds=86400">
-
-
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-Built%202%20Fullstack%20Apps%20This%20Year-%23000000?style=for-the-badge&logo=next.js&logoColor=white&cacheSeconds=86400">
-
-<img alt="YouTube Music" src="https://img.shields.io/badge/YouTube%20Music-Better%20Than%20Spotify%3F-%23FF0000?style=for-the-badge&logo=youtube-music&logoColor=white&cacheSeconds=86400">
-
-</p>
-
-
-###
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="Java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="React logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="Kubernetes logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="TensorFlow logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="PyTorch logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=scikitlearn" height="30" alt="Scikit-learn logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="GCP logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="Flask logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="30" alt="NGINX logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="Redis logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="FastAPI logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="30" alt="PostgreSQL logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="30" alt="RabbitMQ logo" />
-  <img width="12" />
-  <img src="https://n8n.io/favicon.ico" height="30" alt="n8n logo" />
-  <img width="12" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30" alt="Hugging Face logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="Vector DBs logo" />
+  <a href="https://www.pranamshetty.dev">Portfolio</a> •
+  <a href="mailto:prxshetty@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/pranamshetty">LinkedIn</a>
 </div>
 
+<br>
+
+## About
+
+I'm an AI engineer working across LLM evaluation, inference, and full-stack systems. I maintain widely-used open-source repos including Grok Interviews and Hugo Noir, contribute PRs / issues to Hugo, Raycast, LangChain, and Hugging Face, and spend my free time shipping projects.
+
+- Three internships: AI Engineer Intern at Goodfin (YC W22), a finance startup — led LLM evaluation on CFA Level III across 23 LLMs; ML Engineer Intern at Marva.ai, a consultancy — LSTM forecasting and NLP + indicator models for trading; ML Research Intern at KSI (Knowledge Solutions of India), an insurance / finance company — ML pipeline over 500K+ claims with near real-time analytics
+- B.S. Computer Science (Pune University), A.S. Data Science (Symbiosis), M.S. Data Science (RIT, 2022–2025)
+- Backend and platform engineering, with growing focus on AI agent infrastructure, evals, and inference engineering
+- Based in Rochester, NY — open to remote-first AI / software engineer roles
+
+---
+
+## Skills and Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nextjs,ts,js" alt="ai+web"/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,aws,githubactions" alt="data+infra"/>
+</div>
+
+---
+
+## Highlighted Projects
+
+**Margin — local-first AI writing studio** - [Site](https://prxshetty.github.io/margin/)
+
+- Markdown-native writing IDE where your manuscript, characters, and style guides are the context. Works with Ollama, LM Studio, any OpenAI-compatible endpoint, or your own OpenCode / Claude Code / Codex / Antigravity subscription. Auto context management, diff review, editable prompts, fully local.
+
+`Python` `FastAPI` `React` `Ollama` `OpenAI-compatible APIs` `MLX`
 
 
-  
-[![Pranam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prxshetty&bg_color=282c34&color=ffffff&line=61dafb&point=61dafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**Grok Interviews — 3.6M-resource DSA search and recommendation engine** - [Site](https://grokinterviews.vercel.app)
 
-<!-- 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ttymayor&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+- A complete agentic data collection, cleaning, validation and posting processing pipeline to store on 3.6M DSA resources scraped from 22 search engines on CloudFlare R2 with Deepseek-r1 hosted on H100. Includes a custom ML recommendation system that ranks resources by relevance to the question, with answers generated on the backend and streamed to the frontend. Watch [Demo](https://youtu.be/bCTKYImpETI?si=WBYfy4atiKAWyKs-)
 
+`Python` `Typscript` `Next.js` `LLMs` `OpenAI` `Gemini` `Recommendation Systems`
+
+
+**Hugo Noir — website on the worlds fastest framework for websites** - [Site](https://themes.gohugo.io/themes/hugo-noir/)
+
+- 100 stars on GitHub, used by many sites in the wild. Built on Go.
+
+`Go` `Python` `Hugo` `CSS`
+
+---
+
+## Achievements
+
+- Work cited by [CNBC](https://drive.google.com/file/d/1mgHM0do_BvjVAWK2H_XLJJLTOmNzYFbU/view?usp=sharing), [NYT](https://newyorkweeklytimes.com/2025/09/24/ai-cfa-exam-pass-minutes-study/), [Barron's](https://www.barrons.com/advisor/articles/ai-artificial-intelligence-cfa-level-iii-exam-a04a54c4), and [InvestmentNews](https://www.investmentnews.com/fintech/ai-models-pass-cfa-level-iii-exam-in-minutes-raising-questions-for-advisors/262258)
+- Best Presentation Award for CFA Level III LLM evaluation research
+- Publications at FinLLM and Journal of Artificial Intelligence Research 2026
+- Open-source contributions (PRs, closed / raised issues) to Hugo, Raycast, LangChain, and Hugging Face
+
+---
+
+
+<p align="center">Open to AI and software engineer roles and research collaborations. Feel free to reach out.</p>
