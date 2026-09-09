@@ -10,13 +10,10 @@
 <br>
 
 ## About
-
-I'm an AI engineer working across LLM evaluation, inference, and full-stack systems. I maintain widely-used open-source repos including Grok Interviews and Hugo Noir, contribute PRs / issues to Hugo, Raycast, LangChain, and Hugging Face, and spend my free time shipping projects.
-
-- Three internships: AI Engineer Intern at Goodfin (YC W22), a finance startup — led LLM evaluation on CFA Level III across 23 LLMs; ML Engineer Intern at Marva.ai, a consultancy — LSTM forecasting and NLP + indicator models for trading; ML Research Intern at KSI (Knowledge Solutions of India), an insurance / finance company — ML pipeline over 500K+ claims with near real-time analytics
-- B.S. Computer Science (Pune University), A.S. Data Science (Symbiosis), M.S. Data Science (RIT, 2022–2025)
+- M.S. Data Science RIT graduate, Associate in Data Science and Bachelors in Computer Science
+- AI Engineer Intern @ Goodfin (YC W22) · ML Engineer Intern @ Marva.ai · ML Research Intern @ KSI - Worked on LLM evaluation across models, NLP & time-series forecasting, realtime data pipelines · software engineering · near real-time analytics · trading models
 - Backend and platform engineering, with growing focus on AI agent infrastructure, evals, and inference engineering
-- Based in Rochester, NY — open to remote-first AI / software engineer roles
+- Based in New York — open to remote-first AI / software engineer roles
 
 ---
 
@@ -56,9 +53,9 @@ I'm an AI engineer working across LLM evaluation, inference, and full-stack syst
 ## Achievements
 
 - Work cited by [CNBC](https://drive.google.com/file/d/1mgHM0do_BvjVAWK2H_XLJJLTOmNzYFbU/view?usp=sharing), [NYT](https://newyorkweeklytimes.com/2025/09/24/ai-cfa-exam-pass-minutes-study/), [Barron's](https://www.barrons.com/advisor/articles/ai-artificial-intelligence-cfa-level-iii-exam-a04a54c4), and [InvestmentNews](https://www.investmentnews.com/fintech/ai-models-pass-cfa-level-iii-exam-in-minutes-raising-questions-for-advisors/262258)
-- Best Presentation Award for CFA Level III LLM evaluation research
-- Publications at FinLLM and Journal of Artificial Intelligence Research 2026
+- Publications at FinLLM(Best Presentation Award) and Journal of Artificial Intelligence Research 2026
 - Open-source contributions (PRs, closed / raised issues) to Hugo, Raycast, LangChain, and Hugging Face
+
 
 ---
 
