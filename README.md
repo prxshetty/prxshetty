@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://www.pranamshetty.dev">Portfolio</a> •
-  <a href="mailto:prxshetty@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/pranamshetty">LinkedIn</a>
+  <a href="https://www.x.com/pnxshy">Twitter</a> •
+  <a href="https://linkedin.com/in/prxshetty">LinkedIn</a>
 </div>
 
 <br>
